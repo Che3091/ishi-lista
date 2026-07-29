@@ -1,6 +1,14 @@
 {
-  "nombre": "Che",
-  "servidor": "http://myultratv.com:8080",
-  "usuario": "40243608",
-  "clave": "h89HIUF65e56vY"
+   {
+     "nombre": "Che",
+     "servidor": "http://myultratv.com:8080",
+     "usuario": "40243608",
+     "clave": "h89HIUF65e56vY"
+   }
+{
+     "nombre": "Che1",
+     "servidor": "http://myultratv.com:8080",
+     "usuario": "40243608",
+     "clave": "h89HIUF65e56vY"
+   }
 }
